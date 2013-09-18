@@ -12,4 +12,5 @@
 ##
 
 export saltGuiVersion="0.16.3-1.el5"
-
+export saltGuiMinion=""
+export saltGuiMaster=""
