@@ -22,3 +22,6 @@ Minion
     //Info for salt-minion file (/etc/salt/minion)
       -Define MASTER-SERVER (Local OR Remote)
       
+Packaging Up
+
+    We will be using "makeself" to package it all up and call is "--name--.sh"
